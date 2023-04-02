@@ -1,3 +1,4 @@
+
 ##Python program to determine whether the given number is a Harshad Number
 
 def is_harshad_number(n):
